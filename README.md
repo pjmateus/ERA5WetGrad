@@ -14,6 +14,8 @@ The package is independent of any tomography workflow and uses a deliberately
 small input interface. It does not require ERA5 PWV, mapping functions,
 tomographic grids, file indices, or other application-specific products.
 
+![ERA5WetGrad method](figures/ERA5WetGrad_method.png)
+
 ## Main features
 
 - Minimal ERA5 input: time, longitude, latitude, height, and wet refractivity.
