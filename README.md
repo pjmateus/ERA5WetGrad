@@ -256,8 +256,13 @@ against the original optimized implementation using identical atmospheric
 fields and angular geometry; maximum differences in ZWD, `Gns`, `Gew`, and
 fit RMS were all exactly zero.
 
-## Citation and license
+## Citation
 
-Before publishing the repository, add the chosen open-source `LICENSE` file
-and archival citation/DOI. Users should also cite the ERA5 dataset and the
-gradient-mapping formulation appropriate to their application.
+Users should cite the ERA5 dataset and the gradient-mapping formulation
+appropriate to their application. An archival citation or DOI can be added
+when a release is deposited in a repository such as Zenodo.
+
+## License
+
+ERA5WetGrad is released under the MIT License. See [`LICENSE`](LICENSE) for
+the full license text.
